@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.exe
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.deps.json
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.runtimeconfig.json
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.dll
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\bin\Debug\netcoreapp3.1\Saida de daos.pdb
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.dll
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.pdb
+C:\Users\lingn\C# Projects\Saida de daos\Saida de daos\obj\Debug\netcoreapp3.1\Saida de daos.genruntimeconfig.cache

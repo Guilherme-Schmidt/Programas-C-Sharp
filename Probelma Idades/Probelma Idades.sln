@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probelma Idades", "Probelma Idades\Probelma Idades.csproj", "{0C9057FA-5532-4FEA-A2A7-8891FDBD8A17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C9057FA-5532-4FEA-A2A7-8891FDBD8A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9057FA-5532-4FEA-A2A7-8891FDBD8A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9057FA-5532-4FEA-A2A7-8891FDBD8A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9057FA-5532-4FEA-A2A7-8891FDBD8A17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D398C36-F402-4513-9208-1789D1ED5448}
+	EndGlobalSection
+EndGlobal

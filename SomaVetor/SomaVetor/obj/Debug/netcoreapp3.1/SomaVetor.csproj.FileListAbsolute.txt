@@ -1,0 +1,13 @@
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.exe
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.deps.json
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.runtimeconfig.json
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.dll
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\bin\Debug\netcoreapp3.1\SomaVetor.pdb
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.csprojAssemblyReference.cache
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.dll
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.pdb
+C:\Users\lingn\C# Projects\SomaVetor\SomaVetor\obj\Debug\netcoreapp3.1\SomaVetor.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Processamento e Casting/1.0.0": {
+        "runtime": {
+          "Processamento e Casting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Processamento e Casting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

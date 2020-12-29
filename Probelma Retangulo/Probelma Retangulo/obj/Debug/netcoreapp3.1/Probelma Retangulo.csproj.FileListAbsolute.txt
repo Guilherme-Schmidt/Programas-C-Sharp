@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.exe
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.deps.json
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.runtimeconfig.json
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.dll
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\bin\Debug\netcoreapp3.1\Probelma Retangulo.pdb
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.dll
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.pdb
+C:\Users\lingn\C# Projects\Probelma Retangulo\Probelma Retangulo\obj\Debug\netcoreapp3.1\Probelma Retangulo.genruntimeconfig.cache

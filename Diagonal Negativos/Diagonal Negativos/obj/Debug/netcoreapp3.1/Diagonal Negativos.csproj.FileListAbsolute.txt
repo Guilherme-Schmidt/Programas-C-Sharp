@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.exe
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.deps.json
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.runtimeconfig.json
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.dll
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\bin\Debug\netcoreapp3.1\Diagonal Negativos.pdb
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.dll
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.pdb
+C:\Users\lingn\C# Projects\Diagonal Negativos\Diagonal Negativos\obj\Debug\netcoreapp3.1\Diagonal Negativos.genruntimeconfig.cache

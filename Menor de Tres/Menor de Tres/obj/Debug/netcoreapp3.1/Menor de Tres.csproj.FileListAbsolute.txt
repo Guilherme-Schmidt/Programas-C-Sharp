@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.exe
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.deps.json
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.runtimeconfig.json
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.dll
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\bin\Debug\netcoreapp3.1\Menor de Tres.pdb
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.dll
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.pdb
+C:\Users\lingn\C# Projects\Menor de Tres\Menor de Tres\obj\Debug\netcoreapp3.1\Menor de Tres.genruntimeconfig.cache

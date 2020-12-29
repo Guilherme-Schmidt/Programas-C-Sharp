@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.exe
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.deps.json
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.runtimeconfig.json
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.dll
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\bin\Debug\netcoreapp3.1\Estruturas de Controle.pdb
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.dll
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.pdb
+C:\Users\lingn\C# Projects\Estruturas de Controle\Estruturas de Controle\obj\Debug\netcoreapp3.1\Estruturas de Controle.genruntimeconfig.cache

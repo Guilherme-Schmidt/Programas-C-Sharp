@@ -1,0 +1,12 @@
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.exe
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.deps.json
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.runtimeconfig.json
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.runtimeconfig.dev.json
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.dll
+C:\Users\lingn\C# Projects\Crescente\Crescente\bin\Debug\netcoreapp3.1\Crescente.pdb
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.AssemblyInfoInputs.cache
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.AssemblyInfo.cs
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.csproj.CoreCompileInputs.cache
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.dll
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.pdb
+C:\Users\lingn\C# Projects\Crescente\Crescente\obj\Debug\netcoreapp3.1\Crescente.genruntimeconfig.cache
